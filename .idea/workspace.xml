@@ -6,7 +6,43 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3560b3e4-3076-4d78-82d6-41708a02603f" name="Default" comment="" />
+    <list default="true" id="3560b3e4-3076-4d78-82d6-41708a02603f" name="Default" comment="better project structure">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/PokeWhat.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/PokeWhat_jar/PokeWhat.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/map2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/map3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/mouseSpriteSheet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/playerSpritesheet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/pokeCenter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/pokecenter_map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/pokecenter_map2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/pokecenter_map3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/pokemonWorldSprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/de/pokewhat/main/pokecenter_map.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/de/pokewhat/main/map.png" afterPath="$PROJECT_DIR$/src/de/pokewhat/main/img/map.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/de/pokewhat/main/map2.png" afterPath="$PROJECT_DIR$/src/de/pokewhat/main/img/map2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/de/pokewhat/main/map3.png" afterPath="$PROJECT_DIR$/src/de/pokewhat/main/img/map3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/de/pokewhat/main/mouseSpriteSheet.png" afterPath="$PROJECT_DIR$/src/de/pokewhat/main/img/mouseSpriteSheet.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/de/pokewhat/main/playerSpritesheet.png" afterPath="$PROJECT_DIR$/src/de/pokewhat/main/img/playerSpritesheet.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/de/pokewhat/main/pokeCenter.png" afterPath="$PROJECT_DIR$/src/de/pokewhat/main/img/pokeCenter.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/de/pokewhat/main/pokecenter_map2.png" afterPath="$PROJECT_DIR$/src/de/pokewhat/main/img/pokecenter_map2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/de/pokewhat/main/pokecenter_map3.png" afterPath="$PROJECT_DIR$/src/de/pokewhat/main/img/pokecenter_map3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/de/pokewhat/main/pokemonWorldSprite.png" afterPath="$PROJECT_DIR$/src/de/pokewhat/main/img/pokemonWorldSprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/generator/Block$1.class" afterPath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/generator/Block$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/generator/Block$BlockType.class" afterPath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/generator/Block$BlockType.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/generator/Block.class" afterPath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/generator/Block.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/generator/World.class" afterPath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/generator/World.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/Assets.class" afterPath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/Assets.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/Main.class" afterPath="$PROJECT_DIR$/out/production/PokeWhat/de/pokewhat/main/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PokeWhat.iml" afterPath="$PROJECT_DIR$/PokeWhat.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/de/pokewhat/generator/Block.java" afterPath="$PROJECT_DIR$/src/de/pokewhat/generator/Block.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/de/pokewhat/generator/World.java" afterPath="$PROJECT_DIR$/src/de/pokewhat/generator/World.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/de/pokewhat/main/Assets.java" afterPath="$PROJECT_DIR$/src/de/pokewhat/main/Assets.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/de/pokewhat/main/Main.java" afterPath="$PROJECT_DIR$/src/de/pokewhat/main/Main.java" />
+    </list>
     <ignored path="PokeWhat.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,28 +67,18 @@
       <file leaf-file-name="LevelLoader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/de/pokewhat/gamestate/LevelLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="153">
+              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameLoopGame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/de/pokewhat/gameloop/GameLoopGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="World.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="World.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/World.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="2057">
+              <caret line="121" column="28" selection-start-line="121" selection-start-column="28" selection-end-line="121" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#setSize#0;class#World#0" expanded="false" />
@@ -62,10 +88,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="TileManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/TileManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="527">
               <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
@@ -75,23 +111,10 @@
       <file leaf-file-name="Block.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/Block.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="561">
+              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#11880#11881#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Assets.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/Assets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="129" column="94" selection-start-line="129" selection-start-column="94" selection-end-line="129" selection-end-column="94" />
-              <folding>
-                <element signature="method#getPoke_center_15#0;class#Assets#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -105,6 +128,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -137,12 +163,12 @@
         <option value="$PROJECT_DIR$/src/de/pokewhat/generator/TileManager3.java" />
         <option value="$PROJECT_DIR$/src/de/pokewhat/generator/TileManager2.java" />
         <option value="$PROJECT_DIR$/src/de/pokewhat/main/Check.java" />
-        <option value="$PROJECT_DIR$/src/de/pokewhat/main/Main.java" />
         <option value="$PROJECT_DIR$/src/de/pokewhat/generator/TileManager.java" />
         <option value="$PROJECT_DIR$/src/de/pokewhat/moveableobjects/Player.java" />
         <option value="$PROJECT_DIR$/src/de/pokewhat/gamestate/LevelLoader.java" />
-        <option value="$PROJECT_DIR$/src/de/pokewhat/generator/Block.java" />
+        <option value="$PROJECT_DIR$/src/de/pokewhat/main/Main.java" />
         <option value="$PROJECT_DIR$/src/de/pokewhat/main/Assets.java" />
+        <option value="$PROJECT_DIR$/src/de/pokewhat/generator/Block.java" />
         <option value="$PROJECT_DIR$/src/de/pokewhat/generator/World.java" />
       </list>
     </option>
@@ -160,10 +186,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="-1288" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -190,6 +216,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -209,79 +236,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PokeWhat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PokeWhat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PokeWhat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PokeWhat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pokewhat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PokeWhat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PokeWhat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pokewhat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PokeWhat-Engine/out/artifacts/GameOperatingSystem_jar/GameOperatingSystem.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.42643678" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="de.pokewhat.generator" />
-      <recent name="de.pokewhat.gamestate" />
-      <recent name="de.pokewhat.moveableobjects" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dwenders\IdeaProjects\PokeWhat\src\de\pokewhat\main\img" />
+      <recent name="C:\Users\dwenders\IdeaProjects\PokeWhat\src\de\pokewhat\main" />
+      <recent name="C:\Users\Danny\IdeaProjects\PokeWhat\src\de\pokewhat\main" />
+      <recent name="C:\Users\Danny\IdeaProjects\PokeWhat\Cache" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dwenders\IdeaProjects\PokeWhat\src\de\pokewhat\main" />
@@ -295,10 +268,10 @@
       <recent name="de.pokewhat.gamestate" />
       <recent name="de.pokewhat.main.src.de.pokewhat.main" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dwenders\IdeaProjects\PokeWhat\src\de\pokewhat\main" />
-      <recent name="C:\Users\Danny\IdeaProjects\PokeWhat\src\de\pokewhat\main" />
-      <recent name="C:\Users\Danny\IdeaProjects\PokeWhat\Cache" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="de.pokewhat.generator" />
+      <recent name="de.pokewhat.gamestate" />
+      <recent name="de.pokewhat.moveableobjects" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -787,40 +760,42 @@
       <workItem from="1460097984474" duration="20401000" />
       <workItem from="1460360604617" duration="14422000" />
       <workItem from="1460447815415" duration="10682000" />
+      <workItem from="1461312354593" duration="5570000" />
+      <workItem from="1461330220345" duration="112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182816000" />
+    <option name="totallyTimeSpent" value="188498000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1288" y="-8" width="1296" height="1040" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32603687" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27489176" sideWeight="0.5053305" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27995393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2249191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2249191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3986175" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3986175" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32599118" sideWeight="0.49676377" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24339207" sideWeight="0.4946695" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328341" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -846,24 +821,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#11880#11881#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/TileManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/Assets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -903,7 +860,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#11880#11881#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -933,27 +889,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../GameOperatingSystem/src/de/pokewhat/gop/main/Vector2F.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GameOperatingSystem/src/de/pokewhat/gop/main/GameLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="56" column="29" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../GameOperatingSystem/out/artifacts/GameOperatingSystem_jar/GameOperatingSystem.jar!/de/pokewhat/gop/main/GameWindow.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../GameOperatingSystem/src/de/pokewhat/gop/main/Vector2F.java" />
+    <entry file="file://$PROJECT_DIR$/../GameOperatingSystem/src/de/pokewhat/gop/main/GameLoop.java" />
+    <entry file="jar://$PROJECT_DIR$/../GameOperatingSystem/out/artifacts/GameOperatingSystem_jar/GameOperatingSystem.jar!/de/pokewhat/gop/main/GameWindow.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/awt/event/KeyEvent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -983,11 +921,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/playerSpritesheet.png">
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/img/playerSpritesheet.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -997,7 +934,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1041,23 +977,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/map2.png">
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/img/map2.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/map3.png">
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/img/map3.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../GameOperatingSystem/out/artifacts/GameOperatingSystem_jar/GameOperatingSystem.jar!/de/pokewhat/gop/main/Vector2F.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../GameOperatingSystem/out/artifacts/GameOperatingSystem_jar/GameOperatingSystem.jar!/de/pokewhat/gop/main/Vector2F.class" />
     <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/TileManager3.java" />
     <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/TileManager2.java" />
     <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/BlockEntity.java">
@@ -1069,43 +999,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/CenterMartsp.png" />
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/pokemonWorldSprite.png">
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/img/pokemonWorldSprite.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/Check.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/Animator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../GameOperatingSystem/out/artifacts/GameOperatingSystem_jar/GameOperatingSystem.jar!/de/pokewhat/gop/main/GameLoop.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/map.png">
+    <entry file="jar://$PROJECT_DIR$/../GameOperatingSystem/out/artifacts/GameOperatingSystem_jar/GameOperatingSystem.jar!/de/pokewhat/gop/main/GameLoop.class" />
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/img/map.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1118,12 +1018,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/pokecenter_map3.png">
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/img/pokecenter_map3.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/pokecenter_map2.png">
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/img/pokecenter_map2.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1133,81 +1033,104 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/pokecenter_map.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/gameloop/GameLoopGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../GameOperatingSystem/out/artifacts/GameOperatingSystem_jar/GameOperatingSystem.jar!/de/pokewhat/gop/main/SpriteSheet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/TileManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../GameOperatingSystem/out/artifacts/GameOperatingSystem_jar/GameOperatingSystem.jar!/de/pokewhat/gop/main/SpriteSheet.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/awt/DefaultKeyboardFocusManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="805" column="0" selection-start-line="805" selection-start-column="0" selection-end-line="805" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../PokeWhat-Engine/out/artifacts/GameOperatingSystem_jar/GameOperatingSystem.jar!/de/pokewhat/gop/main/GameWindow.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/gameloop/GameLoopGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/de/pokewhat/gamestate/LevelLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        <state relative-caret-position="153">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/Block.java">
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/Animator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
+        <state relative-caret-position="187">
+          <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/img/pokeCenter.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/img/pokecenter_map.png" />
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/Check.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/TileManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
           <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="121" column="28" selection-start-line="121" selection-start-column="28" selection-end-line="121" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#11880#11881#0" expanded="true" />
+            <element signature="method#setSize#0;class#World#0" expanded="false" />
+            <element signature="method#setWorldSpawn#0;class#World#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/Assets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="129" column="94" selection-start-line="129" selection-start-column="94" selection-end-line="129" selection-end-column="94" />
+        <state relative-caret-position="1462">
+          <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
           <folding>
             <element signature="method#getPoke_center_15#0;class#Assets#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/World.java">
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/generator/Block.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="561">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#setSize#0;class#World#0" expanded="false" />
-            <element signature="method#setWorldSpawn#0;class#World#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/pokewhat/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>

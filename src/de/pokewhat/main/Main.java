@@ -13,13 +13,13 @@ import java.awt.*;
  */
 public class Main {
 
-    public static GraphicsDevice gd = GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice();
+    public static GraphicsDevice gd = GraphicsEnvironment.getLocalGraphicsEnvironment().getScreenDevices()[1];
     public static int width = 1024;//gd.getDisplayMode().getWidth();
     public static int height = 720;//gd.getDisplayMode().getHeight();
 
     public static void main (String[] args){
-        GameWindow frame = new GameWindow("PokeWhat", width, height);
-        frame.setFullscreen(0);
+        GameWindow frame = new GameWindow("PokeWhat", width, height, gd);
+        frame.setFullscreen(1);
         Toolkit toolkit = Toolkit.getDefaultToolkit();
         Cursor cursor = toolkit.createCustomCursor(toolkit.getImage(""), new Point(8,0) , "Cursor");
         frame.setCursor(cursor);

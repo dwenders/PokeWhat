@@ -126,10 +126,10 @@ public class Assets {
 
     public void init() {
         //Source
-        blocks.setSpriteSheet(loadImageFrom.loadImageFrom(Main.class, "pokemonWorldSprite.png"));
-        player.setSpriteSheet(loadImageFrom.loadImageFrom(Main.class, "playerSpritesheet.png"));
-        mouse.setSpriteSheet(loadImageFrom.loadImageFrom(Main.class, "mouseSpriteSheet.png"));
-        center.setSpriteSheet(loadImageFrom.loadImageFrom(Main.class, "pokeCenter.png"));
+        blocks.setSpriteSheet(loadImageFrom.loadImageFrom(Main.class, "img/pokemonWorldSprite.png"));
+        player.setSpriteSheet(loadImageFrom.loadImageFrom(Main.class, "img/playerSpritesheet.png"));
+        mouse.setSpriteSheet(loadImageFrom.loadImageFrom(Main.class, "img/mouseSpriteSheet.png"));
+        center.setSpriteSheet(loadImageFrom.loadImageFrom(Main.class, "img/pokeCenter.png"));
 
         poke_center = new ArrayList();
 
